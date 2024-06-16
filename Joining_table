@@ -1,3 +1,5 @@
+-- sample code for joining tables in DBMS using SQL
+
 CREATE DATABASE CompanyDB;
 USE CompanyDB;
 
